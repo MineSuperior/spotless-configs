@@ -1,0 +1,11 @@
+0=java
+1=javax
+2=lombok
+3=org.jetbrains
+4=org.bukkit
+5=io.papermc
+6=co.aikar
+7=net.kyori
+8=
+9=com.minesuperior.mercury
+10=com.minesuperior
